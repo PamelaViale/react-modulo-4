@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import InputMensaje from './InputMensajee'
+import InputMensaje from './InputMensaje'
 import MostrarMensaje from './MostrarMensaje'
 
 const Padre = () => {
